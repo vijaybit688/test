@@ -2,7 +2,7 @@ import 'dart:ui';
 
 import 'package:cached_network_image/cached_network_image.dart';
 import 'package:flutter/material.dart';
-import 'package:task_flutter/screens/auth/bashboard.dart';
+import 'package:task_flutter/screens/bashboard.dart';
 import 'package:task_flutter/services/login_service.dart';
 
 import '../../utils/show_toast.dart';

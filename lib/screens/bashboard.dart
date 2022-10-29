@@ -3,7 +3,7 @@ import 'package:flutter/material.dart';
 import 'package:google_nav_bar/google_nav_bar.dart';
 import 'package:task_flutter/screens/home_screen.dart';
 
-import '../setting.dart';
+import 'setting.dart';
 
 int selectedIndexValue = 0;
 int index = 0;

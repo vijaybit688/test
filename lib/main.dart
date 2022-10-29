@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 import 'package:task_flutter/provider/product_provider.dart';
-import 'package:task_flutter/screens/auth/bashboard.dart';
+import 'package:task_flutter/screens/bashboard.dart';
 import 'package:task_flutter/screens/auth/login_screen.dart';
 import 'package:task_flutter/screens/home_screen.dart';
 import 'package:task_flutter/screens/setting.dart';
